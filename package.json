@@ -1,17 +1,22 @@
 {
   "name": "hash-to-month",
   "version": "1.0.0",
-  "description": "",
+  "description": "hash a value to a month",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js"
   },
-  "author": "",
+  "author": "Jacob Burden",
   "license": "ISC",
   "dependencies": {
     "hash-index": "^3.0.0"
   },
   "devDependencies": {
     "tape": "^4.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jekrb/hash-to-month.git"
+  },
+  "homepage": "https://github.com/jekrb/hash-to-month"
 }
